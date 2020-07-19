@@ -1,0 +1,4 @@
+# GifExpertApp
+
+Una pequeña aplicación hecha en React con Hooks para buscar y mostrar gifs animados, haciendo uso de la API de Giphy.
+
